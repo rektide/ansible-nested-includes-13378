@@ -1,1 +1,1 @@
-- include: seconddir/b.yaml
+- include: subdir/seconddir/b.yaml
